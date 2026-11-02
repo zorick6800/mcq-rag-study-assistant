@@ -1,0 +1,1 @@
+Atlas is a fictional platform used only for this demo. Archive Store retains uploaded documents. Event Monitor records operational events. Trace Viewer displays request paths across components. Event Monitor and Trace Viewer help investigate operational problems. Archive Store is used for document storage.

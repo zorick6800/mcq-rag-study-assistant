@@ -1,0 +1,45 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question_text": "In the fictional Atlas platform, which component stores uploaded documents?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Archive Store"
+        },
+        {
+          "label": "B",
+          "text": "Event Monitor"
+        }
+      ],
+      "correct_labels": [
+        "A"
+      ],
+      "source_feedback": "Archive Store retains uploaded documents."
+    },
+    {
+      "id": "2",
+      "question_text": "Which two Atlas components help investigate operational problems?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Event Monitor"
+        },
+        {
+          "label": "B",
+          "text": "Trace Viewer"
+        },
+        {
+          "label": "C",
+          "text": "Archive Store"
+        }
+      ],
+      "correct_labels": [
+        "A",
+        "B"
+      ],
+      "source_feedback": "Event Monitor records events and Trace Viewer displays request paths."
+    }
+  ]
+}

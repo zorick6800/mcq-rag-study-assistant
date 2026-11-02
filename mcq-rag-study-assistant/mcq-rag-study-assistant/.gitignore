@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.env
+.env.*
+.streamlit/secrets.toml
+*.pdf
+*.docx
+question_bank.json
+study_materials.json
+quiz_results.json
+uploads/
